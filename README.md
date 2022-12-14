@@ -58,6 +58,30 @@ Direct emissions are produced by burning fuel for power or heat, through chemica
 |------|------|------|
 |<img src="https://user-images.githubusercontent.com/72181295/205694452-4484062c-6356-45f5-94d9-8ad5bdb3ce9e.png" width="500" height="200" /> |<img src="https://user-images.githubusercontent.com/72181295/205694475-db99a723-73df-4592-a294-d6447fca4fe9.png" width="500" height="200" /> |<img src="https://user-images.githubusercontent.com/72181295/205694486-c29ffbbf-1e6b-49f7-9457-8a4bba4c3e6f.png" width="500" height="200" /> |
 
+#### Quick Start Notes
+
+##### To start install-
+* npx EnvironmentConnect<br>
+* Run yarn or npm install to install all the dependencies.<br>
+* Once installation is complete, cd into your app's directory and run yarn chain or npm run chain to start a local hardhat environment.<br>
+* Open another terminal and cd into your app's directory.<br>
+* Run yarn deploy or npm run deploy to deploy the example contract locally.<br>
+* Run yarn dev or npm run dev at localhost to start your FrontEnd dev environment.<br>
+
+
+### Technologies -
+This project is built with the following open source libraries, frameworks and languages. User choice of framework used, available in plain js or typescript.
+
+#### Tech	Description -
+##### React Frontend Environment
+* Next JS	React Framework.
+
+#### Ethereum testnet Network 
+* Goerli ETH testnet Network.
+
+##### Included Libraries
+* WAGMI	A set of React Hooks for Web3.<br>
+* Moralis WalletConnect API.<br>
 
 #### Project Explanation Video Link -  https://youtu.be/-KVRe-S-aUw 
 #### PPT(Presentation Link) - https://docs.google.com/presentation/d/13a0RL4XPeSa4bfxLizfYhjgKNGm1HroA/edit?usp=sharing&ouid=104098279692128412778&rtpof=true&sd=true
