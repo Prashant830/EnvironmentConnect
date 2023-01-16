@@ -83,5 +83,4 @@ This project is built with the following open source libraries, frameworks and l
 * WAGMI	A set of React Hooks for Web3.<br>
 * Moralis WalletConnect API.<br>
 
-#### Project Explanation Video Link -  https://youtu.be/-KVRe-S-aUw 
 #### PPT(Presentation Link) - https://docs.google.com/presentation/d/13a0RL4XPeSa4bfxLizfYhjgKNGm1HroA/edit?usp=sharing&ouid=104098279692128412778&rtpof=true&sd=true
