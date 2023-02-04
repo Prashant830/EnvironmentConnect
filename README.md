@@ -3,7 +3,7 @@
 ## Topic- Nft, Metamask wallet , blockchain.
 
 ### Description of Campaign -
-EnvironmentConnect is a platform designed for android app users. In environmentConnect android app, we will provide the services for solving all the environment-related issues and tasks.
+EnvironmentConnect is a platform designed for web app users. In environmentConnect web app, we will provide the services for solving all the environment-related issues and tasks.
 
 ### How EnvironmentConnect App Works-
 These Services are in a form of Nft donations and in these Nft donations all world people buy our Nft ( it is a form of donation ) we stored these Nft amounts in a donation wallet and after collecting a certain amount in a charity wallet we provide these below services to the required places in all over the world.
