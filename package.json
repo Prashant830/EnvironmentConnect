@@ -3,10 +3,10 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "dev": "yarn dev",
-        "build": "yarn build",
-        "start": "yarn start",
-        "lint": "yarn lint"
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
     },
     "dependencies": {
         "axios": "^0.27.2",
